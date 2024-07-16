@@ -1,0 +1,4 @@
+baseURL = 'https://danchenkov.online/'
+languageCode = 'en-us'
+title = 'Alexei Danchenkov online'
+theme = 'base'
